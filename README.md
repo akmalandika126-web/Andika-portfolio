@@ -41,4 +41,29 @@ Targetku jelas: **omzet naik, budget iklan efisien**.
 
 **Hasil**:
 - 📈 Omzet naik **5% dalam 5 bulan**
-- 🎯 Target **15-20 unit/hari** konsisten
+- 🎯 Target **15-20 unit/hari** konsisten tercapai
+- 💰 CPA stabil di bawah target
+
+
+#### 2. Project Dummy: Brand Elektronik Bandung
+**Peran**: Performance Marketing
+**Goal**: Launch produk baru - earphone TWS
+**Tugas**: Riset kompetitor, bikin landing page sederhana, setup campaign Meta Ads + retargeting
+
+**Hasil**:
+- CTR estimasi **2.8%**
+- Cost per purchase **30% lebih murah** vs kompetitor
+
+---
+
+### Tools yang Dikuasai
+`Meta Ads Manager` `Canva` `Google Sheets` `CapCut` `Marketplace Seller Center` `ChatGPT` `GA4`
+
+---
+
+### Yuk Kerjasama 🚀
+Punya brand elektronik/UMKM yang mau omzetnya naik?
+Chat aku di [083848043158] atau email ke [Akmalandika126@mail.com]. Kita bedah strategi iklannya gratis.
+
+---
+*Portfolio ini dibuat April 2026. Last update: [Agustus 2026]*
